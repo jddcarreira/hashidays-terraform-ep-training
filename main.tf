@@ -18,10 +18,6 @@
 #     hdays-michel-parrot
 #
 
-variable "dnsimple_account" {}
-
-variable "dnsimple_token" {}
-
 variable "aws_access_key" {}
 
 variable "aws_secret_key" {}
