@@ -18,6 +18,8 @@
 #     hdays-michel-parrot
 #
 
+ERROR
+
 variable "aws_access_key" {}
 
 variable "aws_secret_key" {}
