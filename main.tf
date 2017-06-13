@@ -55,7 +55,7 @@ resource "aws_instance" "web" {
     Env      = "prd"
   }
 
-  count = 2
+  count = 3
 }
 
 output "public_ip" {
